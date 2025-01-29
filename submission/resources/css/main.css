@@ -10,3 +10,9 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
+
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+}
